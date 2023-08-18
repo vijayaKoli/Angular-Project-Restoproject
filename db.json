@@ -1,0 +1,78 @@
+{
+  "restaurants": [
+    {
+      "name": "KFC restaurant",
+      "email": "kfc@test.com",
+      "address": "Dehli sector 7",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Aai restaurant",
+      "address": "Pune sector 70",
+      "email": "Aai@test.com"
+    },
+    {
+      "name": "orchid restaurant",
+      "address": "Thane sector 110",
+      "email": "orchid@test.com",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Samrudhi restaurant",
+      "address": "Shrinagr sector 450",
+      "email": "saburi@test.com"
+    },
+    {
+      "id": 5,
+      "name": "Baba restaurant",
+      "address": "Pune sector 70",
+      "email": "Baba@test.com"
+    },
+    {
+      "name": "Yaari restaurant",
+      "address": "Mumbai sector 70",
+      "email": "Yaari@test.com",
+      "id": 6
+    },
+    {
+      "name": "Kamini restaurant",
+      "address": "Nasik sector 70",
+      "email": "Kamini@test.com",
+      "id": 7
+    },
+    {
+      "name": "Annapurna restaurant",
+      "address": "Pune sector 70",
+      "email": "Annapurna@test.com",
+      "id": 8
+    },
+    {
+      "name": "Satvik food",
+      "email": "satvikfood@test.com",
+      "address": "sambhajinagar,sector1",
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "name": "peter",
+      "email": "peter@test.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "Bhagyshri",
+      "email": "bhagushri@test.com",
+      "password": "143",
+      "id": 2
+    }
+  ]
+}
